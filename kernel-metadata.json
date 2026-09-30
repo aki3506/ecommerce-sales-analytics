@@ -1,0 +1,19 @@
+{
+  "id": "cokunkaanaki/ecommerce-sales-analytics",
+  "id_no": 129409766,
+  "title": "ecommerce_sales_analytics",
+  "code_file": "ecommerce-sales-analytics.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "cokunkaanaki/drag-and-drop"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
